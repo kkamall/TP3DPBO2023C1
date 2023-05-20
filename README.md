@@ -99,6 +99,7 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 ![animation](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/bb42d8bb-dfe5-4183-a564-7b37737b91b9)
   - Delete Data Anggota:<br>
 ![animation](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/86bd51d2-4b0e-40f0-a545-66e251bf326e)
+
 - Band:<br>
 ![image](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/ef2c6886-2e3e-40dc-b622-efe498c2ae87)
   - Searching Data Band:<br>
@@ -111,6 +112,7 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 ![animation](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/8a0c29de-8e1f-45a2-89e6-b85fec1e0c5c)
   - Delete Data Band:<br>
 ![animation](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/48aca732-b5be-4acb-9cda-5b0944916449)
+
 - Role:<br>
 ![image](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/e852014d-b6d0-4874-8c5b-6d07c73a0fdc)
   - Searching Data Role:<br>
