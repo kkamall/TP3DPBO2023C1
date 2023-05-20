@@ -89,7 +89,7 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 ![image](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/f8efb612-09aa-493f-b8b7-9bafbd66e490)
   - Pengurutan Data Anggota:<br>
 ![animation](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/c36163c5-5467-4a83-923b-c000ed40c6b5)
-  - Seachinig Data Anggota:<br>
+  - Searching Data Anggota:<br>
 ![animation](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/1de6f69a-e9a5-4982-8084-4c0a6db70efd)
   - Detail Anggota:<br>
 ![image](https://github.com/kkamall/TP3DPBO2023C1/assets/101335350/0d0ee748-949b-42d3-8abb-e6a25aadbc74)
